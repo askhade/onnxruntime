@@ -42,3 +42,4 @@ It's well known C++ has [static initialization order problem](https://isocpp.org
 
 
 
+Testing
